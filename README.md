@@ -159,11 +159,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 Author
 
 **Your Name**
 - GitHub: [Puspendu](https://github.com/programmer-Puspendujana)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-Puspendu)
+- LinkedIn: [Puspendu](https://linkedin.com/in/programmer-Puspendu)
 
 ---
 
